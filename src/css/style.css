@@ -16,8 +16,17 @@
 
 .txtSecundario
 {
-    font-size: 20px;
+    font-size: 30px;
 }
+
+#estado
+{
+    display:block;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
 
 span
 {
