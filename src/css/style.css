@@ -1,6 +1,6 @@
 .container
 {
-    width: 425px;
+    width: 550px;
     margin: auto;
     margin-top: 150px;
     background-color: black;
@@ -11,17 +11,17 @@
 
 .txtPrincipal
 {
-    font-size: 125px;
+    font-size: 100px;
 }
 
 .txtSecundario
 {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 span
 {
-    width: 45%;
+    width: 100px;
 }
 
 body
@@ -29,4 +29,18 @@ body
     background-image: url("../img/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ColStyle {
+  background-color: #000000;
+  color: white;
+}
+.logo {
+  width: 60%;
+  height: 40px;
 }
